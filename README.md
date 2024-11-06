@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on ... javascript<br>- 🌱 I’m currently learning ... javascript <br>- 🤔 I’m looking for help with ... javascript<br>- 💬 Ask me about ... javascript
+- 🔭 I’m currently working on ... Angular<br>- 🌱 I’m currently learning ... Angular <br>- 🤔 I’m looking for help with ... Angular<br>- 💬 Ask me about ... Angular
 
 
 ## 🌐 Socials:
